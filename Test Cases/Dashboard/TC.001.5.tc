@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat melihat testimoni pengguna lain</description>
+   <name>TC.001.5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc32cc7d-15c3-44b9-8daa-6652924d92e0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengirim pesan ke tim HIGO</description>
+   <name>TC.007.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7c98f99-f697-4388-83c5-1e801221c461</testCaseGuid>
+</TestCaseEntity>

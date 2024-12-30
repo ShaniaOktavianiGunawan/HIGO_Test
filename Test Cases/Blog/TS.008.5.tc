@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User memberi komentar pada artikel</description>
+   <name>TS.008.5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73d96864-0558-4b7e-b426-5a8328183ea4</testCaseGuid>
+</TestCaseEntity>

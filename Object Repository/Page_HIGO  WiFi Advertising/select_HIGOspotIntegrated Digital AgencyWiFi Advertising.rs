@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_HIGOspotIntegrated Digital AgencyWiFi Advertising</name>
+   <tag></tag>
+   <elementGuidId>ad207165-fc6c-4758-8d97-c44ee59b166c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='service']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;service&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8c1e6d7e-739c-4dbe-9e2e-f2933aebc384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>service</value>
+      <webElementGuid>28b3ff6a-2088-4451-9102-8decf97e0dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full appearance-none rounded border px-2.5 py-1.5 text-sm</value>
+      <webElementGuid>0dc4e9cb-1b02-4ec5-8dd5-047eb3813bdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HIGOspotIntegrated Digital AgencyWiFi Advertising</value>
+      <webElementGuid>286a00bf-d95c-457a-8105-1432c168c592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_bf78da font-inter font-light&quot;]/main[@class=&quot;gap-y-6 @container/page grid-container&quot;]/div[@class=&quot;grid gap-6 pt-safearea grid-content @4xl/page:grid-cols-2 @4xl/page:pb-safearea @4xl/page:pt-safearea-2x&quot;]/section[@class=&quot;grid&quot;]/div[@class=&quot;grid min-h-96 content-start gap-4 rounded-3xl bg-white p-6&quot;]/form[@class=&quot;grid gap-4&quot;]/div[@class=&quot;grid grid-flow-row gap-1&quot;]/div[@class=&quot;relative&quot;]/select[@class=&quot;w-full appearance-none rounded border px-2.5 py-1.5 text-sm&quot;]</value>
+      <webElementGuid>0e404d12-3a10-4511-9d20-6d335ddcaa92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='service']</value>
+      <webElementGuid>c0842a86-be16-4b3e-952f-77f4881c1e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan yang ingin ditanyakan'])[1]/following::select[1]</value>
+      <webElementGuid>6fbb56df-25bb-4c00-9814-8a313227a94b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama perusahaan/lokasi/event/brand'])[1]/following::select[1]</value>
+      <webElementGuid>36b380b4-8103-4c96-b25e-a40edcbc2960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesan'])[1]/preceding::select[1]</value>
+      <webElementGuid>28d2f618-7b4d-4db1-9d4f-ef0003c18396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::select[1]</value>
+      <webElementGuid>360c3720-efdc-4864-82ed-5e32017ed4da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>4d7c4315-061f-43b4-81a4-8c308a09f01a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'service' and (text() = 'HIGOspotIntegrated Digital AgencyWiFi Advertising' or . = 'HIGOspotIntegrated Digital AgencyWiFi Advertising')]</value>
+      <webElementGuid>4323234f-b845-4171-85f9-5b8e9734995c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

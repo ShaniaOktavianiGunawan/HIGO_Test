@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengakses layanan HIGOspot melalui card layanan di dashboard</description>
+   <name>TC.001.3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b98f525c-75ce-49f7-9f86-e36b31d08f88</testCaseGuid>
+</TestCaseEntity>

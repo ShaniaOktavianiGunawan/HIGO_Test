@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengakses layanan wifi advertising melalui card layanan di dashboard</description>
+   <name>TC.001.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f3c48aa-d99f-4a76-9d63-8800ea451481</testCaseGuid>
+</TestCaseEntity>

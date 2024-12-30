@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User melihat mitra HIGOspot</description>
+   <name>TC.004.5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8b3791a-367f-49ff-9447-4f3989ea6e05</testCaseGuid>
+</TestCaseEntity>

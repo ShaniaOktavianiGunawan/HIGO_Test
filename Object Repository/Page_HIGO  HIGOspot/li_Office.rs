@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Office</name>
+   <tag></tag>
+   <elementGuidId>52a406c6-ce7b-457e-a110-ff58c91efb86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cafe/Coffee Shop'])[2]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c76c9da0-430c-480c-af0b-f2dc2c2d609b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-1/2 cursor-pointer rounded-full border border-primary px-2</value>
+      <webElementGuid>3f8e1383-98a8-4bed-be67-f527eeebf5ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Office</value>
+      <webElementGuid>41257b67-70f6-4a16-ad32-dbade03aeab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_bf78da font-inter font-light&quot;]/main[@class=&quot;gap-y-6 @container/page grid-container&quot;]/section[@class=&quot;grid gap-y-10 @container/section grid-compact @2xl/page:pt-30 my-10 mt-0 py-20 @2xl/page:pb-20&quot;]/div[@class=&quot;grid divide-y overflow-clip rounded-md border @2xl/section:grid-cols-2 @2xl/section:divide-x @2xl/section:divide-y-0 @4xl/section:grid-cols-3&quot;]/div[@class=&quot;col-span-1 grid max-h-148 grid-rows-[auto_auto_1fr] divide-y&quot;]/header[@class=&quot;grid gap-2 p-2&quot;]/div[@class=&quot;grid overflow-auto pb-2&quot;]/ul[@class=&quot;flex flex-row gap-1 overflow-clip transition-all @2xl/section:flex-wrap max-h-96&quot;]/li[@class=&quot;py-1/2 cursor-pointer rounded-full border border-primary px-2&quot;]</value>
+      <webElementGuid>ec7b9cfe-18ab-4bb3-8c5d-821171f7b66a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cafe/Coffee Shop'])[2]/following::li[1]</value>
+      <webElementGuid>2bae1f4f-3c02-4779-8dd3-da6e2f630f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::li[2]</value>
+      <webElementGuid>c96c24da-81ad-4d79-96fe-f93590691919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transportation'])[2]/preceding::li[1]</value>
+      <webElementGuid>f06a7c54-7ca0-4383-b1e3-f691e2b73e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/ul/li[2]</value>
+      <webElementGuid>38cd6a61-551a-4c84-b500-7067f1680e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Office' or . = 'Office')]</value>
+      <webElementGuid>a2b9af19-1dd7-4f7a-a761-00349f7c2906</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

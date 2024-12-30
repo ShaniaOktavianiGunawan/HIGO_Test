@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User filter artikel berdasarkan kategori</description>
+   <name>TS.008.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>add3a8d7-c8fb-44d9-98a1-04e8dd928f7b</testCaseGuid>
+</TestCaseEntity>

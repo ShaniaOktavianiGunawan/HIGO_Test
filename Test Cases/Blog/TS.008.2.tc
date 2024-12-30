@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User filter artikel berdasarkan kategori pada topik populer</description>
+   <name>TS.008.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74133455-99bc-4a32-8b33-6cb727f47190</testCaseGuid>
+</TestCaseEntity>

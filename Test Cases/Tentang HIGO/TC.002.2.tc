@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengunjungi linkedin HIGO dengan klik tombol pada banner</description>
+   <name>TC.002.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ac3695d-72ad-4397-8c11-d60f04776e21</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Retail</name>
+   <tag></tag>
+   <elementGuidId>28df4412-20f9-48c7-9fa6-6b41ba48505b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitra Kami'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7785bdfd-cd31-4a7e-9999-5f2079b2d1f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>higospot-partners-retail</value>
+      <webElementGuid>87b2a17a-26e0-496b-bd75-49c698c4f384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row-span-1 w-fit border-b-2 border-transparent px-1 py-1 text-center font-medium peer-checked/retail:border-primary peer-checked/retail:text-primary</value>
+      <webElementGuid>0db98041-6d34-4261-b73c-b6d7223c0403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Retail</value>
+      <webElementGuid>445682d4-5376-44f2-8853-3db6c869abf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_bf78da font-inter font-light&quot;]/main[@class=&quot;gap-y-6 @container/page grid-container&quot;]/section[@class=&quot;grid gap-6 @container/section grid-content&quot;]/div[@class=&quot;flex flex-row flex-wrap justify-center gap-6&quot;]/label[@class=&quot;row-span-1 w-fit border-b-2 border-transparent px-1 py-1 text-center font-medium peer-checked/retail:border-primary peer-checked/retail:text-primary&quot;]</value>
+      <webElementGuid>6a49f72e-7de3-4b0a-98bd-ce98a79ce222</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitra Kami'])[1]/following::label[1]</value>
+      <webElementGuid>3407b551-a067-4ff0-b94a-6fdc324d03de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next slide'])[1]/following::label[1]</value>
+      <webElementGuid>17f299f2-7aa2-40e3-bbc3-130517ef970d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate &amp; ISP'])[1]/preceding::label[1]</value>
+      <webElementGuid>b521bbca-e48a-4cdd-b88c-61f2e527bfaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akselerasi bisnis bersama HIGOspot'])[1]/preceding::label[2]</value>
+      <webElementGuid>90a67a8f-3020-4db8-8db6-d7e02b7014c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Retail']/parent::*</value>
+      <webElementGuid>828a34fc-3993-461e-9b5d-51e16ba12fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[6]/div/label</value>
+      <webElementGuid>ef908b54-3ccf-4662-bfa2-79ddd814f1ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Retail' or . = 'Retail')]</value>
+      <webElementGuid>ab6ff55a-2814-40fb-9465-ff02d9093913</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

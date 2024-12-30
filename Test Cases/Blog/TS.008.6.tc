@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User gagal memberi komentar pada artikel</description>
+   <name>TS.008.6</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b97aa87-4ab7-455f-baa5-07a9a25e4536</testCaseGuid>
+</TestCaseEntity>

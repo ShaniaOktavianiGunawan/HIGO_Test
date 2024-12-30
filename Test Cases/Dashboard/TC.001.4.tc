@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengakses layanan Integrated Digital Agency melalui card layanan di dashboard</description>
+   <name>TC.001.4</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>07d17e62-c38b-45a3-b278-bc1f9102bdc1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Daftar Lokasi_w-full rounded-full bor_09c3a7</name>
+   <tag></tag>
+   <elementGuidId>a5c58fbf-b641-46f1-8476-0882cafb852a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.w-full.rounded-full.border.px-3.py-1.text-sm.pr-10</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>73dfcc40-fa47-4adb-b6cb-7faf77cbd9c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari nama lokasi</value>
+      <webElementGuid>e608748b-cf76-4a88-b968-62dff4991c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full rounded-full border px-3 py-1 text-sm pr-10</value>
+      <webElementGuid>2fe68dab-30f0-42f0-914b-998689c7952f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e8789e2f-3794-41e9-aa1c-6f1e9f996156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_bf78da font-inter font-light&quot;]/main[@class=&quot;gap-y-6 @container/page grid-container&quot;]/section[@class=&quot;grid gap-y-10 @container/section grid-compact @2xl/page:pt-30 my-10 mt-0 py-20 @2xl/page:pb-20&quot;]/div[@class=&quot;grid divide-y overflow-clip rounded-md border @2xl/section:grid-cols-2 @2xl/section:divide-x @2xl/section:divide-y-0 @4xl/section:grid-cols-3&quot;]/div[@class=&quot;col-span-1 grid max-h-148 grid-rows-[auto_auto_1fr] divide-y&quot;]/div[@class=&quot;grid grid-flow-row gap-1 px-3 py-2&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;w-full rounded-full border px-3 py-1 text-sm pr-10&quot;]</value>
+      <webElementGuid>ef7419c7-81f0-43bd-97c6-c4c78c2a21dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>2a32507a-11a5-4b53-897f-d9a94038e88c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/input</value>
+      <webElementGuid>672049f4-8749-43a2-b30b-f5a41d94c45d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Cari nama lokasi' and @type = 'text']</value>
+      <webElementGuid>baeb7f5d-5f7c-46ef-987e-268ecf2b6c57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

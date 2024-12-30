@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tips Bisnis</name>
+   <tag></tag>
+   <elementGuidId>e8adb906-6e2e-43b9-b611-d94c06936e2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.px-3.py-2.text-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f093cdd3-74d6-4537-9e7c-d023412e23a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>16d4932d-f690-4c0f-ab94-80656f7b225f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-3 py-2 text-sm</value>
+      <webElementGuid>d6d8843a-68db-4f7f-85d0-9f6c573ad0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tips Bisnis</value>
+      <webElementGuid>94fabe0e-0007-48b6-8517-152ed034e39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_d5b9e1 font-inter font-light&quot;]/main[@class=&quot;gap-y-6 @container/page grid-container&quot;]/div[@class=&quot;grid min-h-screen grid-cols-1 content-start pb-8 pt-safearea grid-content&quot;]/div[@class=&quot;mt-6 grid content-start gap-6 @3xl/page:grid-cols-2 @5xl/page:grid-cols-l-fill&quot;]/div[@class=&quot;grid content-start gap-6 @5xl/page:w-104&quot;]/section[@class=&quot;grid grid-flow-row content-start gap-4 rounded-lg bg-blue-50 p-3 @3xl/page:p-6&quot;]/ul[@class=&quot;flex flex-wrap gap-3&quot;]/li[@class=&quot;rounded-full bg-white&quot;]/form[1]/button[@class=&quot;px-3 py-2 text-sm&quot;]</value>
+      <webElementGuid>9fcc5d7f-341c-41dc-a79f-e13ce28f0536</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>010d04d1-8a95-44a7-8de3-02569239e258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topik Populer'])[1]/following::button[1]</value>
+      <webElementGuid>1150a1c3-6d5f-400d-b374-c6c19b37db23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekomendasi NGO Pecinta Lingkungan di Indonesia'])[1]/following::button[1]</value>
+      <webElementGuid>88b207c9-bf31-427c-bbec-5bb3460334c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jakarta Coffee Week'])[1]/preceding::button[1]</value>
+      <webElementGuid>6bcf5e9c-29ae-4849-854d-7ea4fab6e89d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JCW'])[1]/preceding::button[2]</value>
+      <webElementGuid>7e7033e8-3d80-4c25-8994-6b404a37da62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tips Bisnis']/parent::*</value>
+      <webElementGuid>8ed9a2b9-6a13-4f15-8077-6d5b7d7e1651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>3124b6c2-bf26-4ab0-8e49-128004bc4562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Tips Bisnis' or . = 'Tips Bisnis')]</value>
+      <webElementGuid>6a555ad5-78d8-463d-99ca-6fbe28bcc1c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

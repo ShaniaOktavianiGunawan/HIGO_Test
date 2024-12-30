@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_HIGOspot</name>
+   <tag></tag>
+   <elementGuidId>17664b00-868e-4b43-a99c-4061bcfc255b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='WiFi Advertising'])[2]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3596f096-2ba3-4a6c-bde7-3f76b3a9e815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HIGOspot</value>
+      <webElementGuid>45ac6bc6-88ba-4350-b0e2-cb38176a6ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_bf78da font-inter font-light&quot;]/header[@class=&quot;grid grid-flow-col fixed inset-x-0 top-7 z-top grid-container&quot;]/div[@class=&quot;relative text-white @container/header grid-content&quot;]/div[@class=&quot;grid grid-cols-r-fill items-center rounded-3xl bg-primary px-7 @2xl/header:px-10&quot;]/nav[@class=&quot;absolute inset-x-0 top-full grid -translate-y-6 grid-rows-[0fr] overflow-clip rounded-b-3xl bg-primary transition-[grid-template-rows] duration-300 peer-checked:grid peer-checked:grid-rows-[1fr] @4xl/header:static @4xl/header:translate-y-0 @4xl/header:grid-rows-none @4xl/header:justify-end @4xl/header:overflow-visible @4xl/header:rounded-t-3xl&quot;]/ul[@class=&quot;@4xl/header:min-h-auto col-start-1 col-end-1 row-start-1 row-end-1 grid min-h-0 grid-flow-row gap-x-5 divide-y divide-white/10 px-7 py-3 @2xl/header:px-10 @4xl/header:!col-auto @4xl/header:!row-auto @4xl/header:w-max @4xl/header:grid-flow-col @4xl/header:!divide-none @4xl/header:px-0 @4xl/header:py-0 @5xl:gap-x-10 [&amp;>*:first-child]:mt-6 @4xl/header:[&amp;>*:first-child]:mt-0&quot;]/li[@class=&quot;group/navigation-item relative grid font-anek-malayalam underline-offset-8 @4xl:decoration-blue-300 @4xl:hover:underline&quot;]/ul[@class=&quot;hidden w-full pb-4 peer-checked:grid @4xl/header:absolute @4xl/header:right-0 @4xl/header:top-full @4xl/header:hidden @4xl/header:w-max @4xl/header:-translate-y-1 @4xl/header:rounded-xl @4xl/header:bg-white @4xl/header:py-4 @4xl/header:text-primary @4xl/header:shadow-xl @4xl/header:group-hover/navigation-item:!grid @4xl/header:peer-checked:hidden&quot;]/li[@class=&quot;group/navigation-item relative grid font-anek-malayalam underline-offset-8 pl-4 @4xl/header:px-4 @4xl/header:transition-colors @4xl/header:duration-500 @4xl/header:hover:bg-violet-100&quot;]/label[@class=&quot;peer-checked:hidden&quot;]/a[@class=&quot;grid grid-cols-l-fill items-center py-1.5&quot;]/span[1]</value>
+      <webElementGuid>4ba3087c-45bf-4e71-abcf-f6af4118889c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WiFi Advertising'])[2]/following::span[1]</value>
+      <webElementGuid>e26ddcfe-f0da-4694-b0bc-ba7f592eaa9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WiFi Advertising'])[1]/following::span[2]</value>
+      <webElementGuid>eff8a280-02ea-434e-82b5-ff16b7149f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGOspot'])[2]/preceding::span[1]</value>
+      <webElementGuid>b8d7f418-c7b7-48a5-b60e-cca94683352d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrated Digital Agency'])[1]/preceding::span[2]</value>
+      <webElementGuid>8c7f367b-c8d6-4f22-ad9f-4b9b6ce1abfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HIGOspot']/parent::*</value>
+      <webElementGuid>886cbdec-9e53-49bf-ab8f-781e90e2b58d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/label/a/span</value>
+      <webElementGuid>bc59ff7d-119c-430b-8c1d-768a4a4db7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'HIGOspot' or . = 'HIGOspot')]</value>
+      <webElementGuid>279534c8-53a0-421f-bac2-5643eaa7f30e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

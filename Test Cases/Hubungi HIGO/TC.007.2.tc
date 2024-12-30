@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User gagal mengirim pesan ke tim HIGO</description>
+   <name>TC.007.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e3d21b6-7462-488b-bcdc-8c33b81246c0</testCaseGuid>
+</TestCaseEntity>

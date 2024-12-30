@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User memastikan widget / komponen yang ada di halaman Integrated Digital Agency sudah benar</description>
+   <name>TC.005.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f85e878-e24e-4b44-8e78-58ac6f1fc3f8</testCaseGuid>
+</TestCaseEntity>

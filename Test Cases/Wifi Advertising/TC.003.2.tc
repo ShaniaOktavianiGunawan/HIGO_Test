@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User menghubungi HIGO untuk beriklan dengan klik button pada banner</description>
+   <name>TC.003.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>838d32d2-4985-41e7-9d2a-a07a32b541c2</testCaseGuid>
+</TestCaseEntity>

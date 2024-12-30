@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User melakukan pencarian lokasi HIGOspot dengan filter</description>
+   <name>TC.004.3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>efbcb6e6-9f60-4d0b-b2b1-3fb5fa7a8853</testCaseGuid>
+</TestCaseEntity>

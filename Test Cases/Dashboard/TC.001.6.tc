@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat melihat jawaban dari FAQ</description>
+   <name>TC.001.6</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96fc9db2-7d9f-4575-8b46-2d27900c76c3</testCaseGuid>
+</TestCaseEntity>

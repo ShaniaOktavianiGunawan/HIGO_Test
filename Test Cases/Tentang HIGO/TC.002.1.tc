@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User memastikan widget / komponen yang ada di halaman Tentang Higo sudah benar</description>
+   <name>TC.002.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cb1d49b-aa2a-44d7-a44c-d75868874978</testCaseGuid>
+</TestCaseEntity>

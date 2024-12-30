@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Jakarta Coffee Week</name>
+   <tag></tag>
+   <elementGuidId>983b6a2c-e061-4378-b851-c852202e31ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.px-3.py-2.text-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b17883ff-72c6-4d54-bbc8-b4c07d6ddfc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>a43561cd-0bfd-4590-b56b-11b8cc219c16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-3 py-2 text-sm</value>
+      <webElementGuid>23d2f024-af2f-4a90-9c3b-dbe0234c30ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jakarta Coffee Week</value>
+      <webElementGuid>5eae48e9-3f57-4e29-b9f7-ab306a6366bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_d5b9e1 font-inter font-light&quot;]/main[@class=&quot;gap-y-6 @container/page grid-container&quot;]/div[@class=&quot;grid min-h-screen grid-flow-row content-start gap-6 pt-safearea grid-content @3xl/page:pb-8&quot;]/div[@class=&quot;-mt-20 grid content-start gap-6 @3xl/page:grid-cols-2 @5xl/page:grid-cols-l-fill @9xl/page:-mt-6&quot;]/div[@class=&quot;grid content-start gap-6&quot;]/section[@class=&quot;grid grid-flow-row content-start gap-4 rounded-lg bg-blue-50 p-3 @3xl/page:p-6&quot;]/ul[@class=&quot;flex flex-wrap gap-3&quot;]/li[@class=&quot;rounded-full bg-white&quot;]/form[1]/button[@class=&quot;px-3 py-2 text-sm&quot;]</value>
+      <webElementGuid>3acc6515-f218-4047-a4ad-a81f5d1bf260</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>4d83cf6f-ce80-43b4-b7ef-61afa92c32d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topik Terkait'])[1]/following::button[1]</value>
+      <webElementGuid>db3c190a-70bd-4260-ba64-06bdd3562814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekomendasi Aplikasi Untuk Budgeting Gen Z'])[1]/following::button[1]</value>
+      <webElementGuid>169b9d75-5011-41a7-86c4-35939ca358ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JCW'])[1]/preceding::button[1]</value>
+      <webElementGuid>00c0432d-dd54-4063-9a03-7d59425da46a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event Jakarta'])[1]/preceding::button[2]</value>
+      <webElementGuid>a2d780e5-e628-4b82-b7fc-b10464f93e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jakarta Coffee Week']/parent::*</value>
+      <webElementGuid>8aa774a7-64b5-4c69-8f2c-0f395369366a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>55efae15-0019-4553-b03a-dc34c0b9224f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Jakarta Coffee Week' or . = 'Jakarta Coffee Week')]</value>
+      <webElementGuid>3983b66f-885b-4946-ab73-81be469a390d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

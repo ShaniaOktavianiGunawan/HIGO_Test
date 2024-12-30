@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mendownload report</description>
+   <name>TC.006.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>564411c3-f092-4ffc-833a-479964011039</testCaseGuid>
+</TestCaseEntity>

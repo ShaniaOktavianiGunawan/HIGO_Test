@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User melakukan pencarian lokasi HIGOspot berdasarkan provinsi</description>
+   <name>TC.004.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93fc91ac-cb32-491a-8449-39af30f15403</testCaseGuid>
+</TestCaseEntity>

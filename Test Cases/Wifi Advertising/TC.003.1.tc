@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User memastikan widget / komponen yang ada di halaman Wifi Advertising sudah benar</description>
+   <name>TC.003.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>912af08f-73fc-426e-b792-52bd9e6fbc88</testCaseGuid>
+</TestCaseEntity>

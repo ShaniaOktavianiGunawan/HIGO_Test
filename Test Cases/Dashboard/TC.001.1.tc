@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User memastikan widget / komponen yang ada di halaman dashboard sudah benar</description>
+   <name>TC.001.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87226aac-6c07-410e-a9e8-4989bd42d9a2</testCaseGuid>
+</TestCaseEntity>

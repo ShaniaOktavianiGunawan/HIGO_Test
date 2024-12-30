@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mencari berita topik terkait yang ada di detail artikel</description>
+   <name>TS.008.4</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe5671cb-5b6d-414b-a0d0-41dfabc583ff</testCaseGuid>
+</TestCaseEntity>
